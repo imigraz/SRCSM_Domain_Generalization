@@ -5,4 +5,4 @@ This repository contains the official implementation of our paper:
 \
 Accepted at **IEEE Access 2026**.
 
-This repository is WIP. Code will be made publically available soon.
+This repository is WIP. Code will be made publicly available soon.
