@@ -1,0 +1,4 @@
+__pycache__
+.idea
+debug_train
+debug_val
